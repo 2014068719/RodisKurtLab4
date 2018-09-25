@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">RodisKurtLab4</string>
+    <string name="quiapo_Church">Quiapo Church</string>
+    <string name="location"> Location: Quezon Blvd, Plaza Miranda Quiapo, Manila, Luzon 1014 Philippines</string>
+    <string name="distance">Distance: <b>2.4km</b> from UST</string>
+    <string name="back"><b>BACK</b></string>
+    <string name="next"><b>NEXT</b></string>
+</resources>
